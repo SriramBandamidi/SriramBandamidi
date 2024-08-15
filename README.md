@@ -128,6 +128,13 @@ CSS
 .conference-2page-back-button {
     text-align: center;
 }
+
+.conferance-2page-card-prices {
+    
+    
+    font-size: 25px;
+    font-weight: bold;
+}
    
 
  
