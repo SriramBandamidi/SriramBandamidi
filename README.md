@@ -70,7 +70,10 @@ HTML
 </html>
 
 
+
 CSS
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
 .conference-page-top-container {
     font-weight: 500;
@@ -79,67 +82,52 @@ CSS
     padding: 20px;
     font-size: 20px;
 }
-
 .conference-image {
     height: 50vh;
     margin-left: 45px;
-
 }
-
 .conference-bottom-card-container {
-
-    width: 280px;
+     width: 280px;
     text-align: center;
     margin-left: 100px;
     padding: 20px;
 }
-
 .conference-2page-heading {
     font-family: "Roboto";
     font-size: 20px;
     padding: 20px;
-
 }
-
 .conference-2page-card-container {
-
     text-align: center;
     padding: 20px;
-
-
 }
-
 .conference-2page-2heading {
     font-family: "Roboto";
     font-size: 30px;
     font-weight: bold;
 
 }
-
 .conference-2page-2para {
     color: gray;
     font-size: 18px;
 }
-
 .conferance-2page-card-items {
-
     width: 100px;
     padding: 20px;
     margin-left: 80px;
-
 }
-
 .conferance-2page-card-prices {
     font-size: 25px;
     font-weight: bold;
 }
-
 .conferance-2page-card-description {
     font-size: 18px;
     color: gray;
-
+    text-align: center;
 }
-
 .conference-2page-back-button {
     text-align: center;
 }
+   
+
+ 
